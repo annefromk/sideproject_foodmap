@@ -1,0 +1,12 @@
+title: 오늘 뭐 먹지? (공덕편)
+description: 회사다니는재미, 먹는재미
+sitename: 공덕역맛집
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock

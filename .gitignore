@@ -1,0 +1,16 @@
+.bundle
+.DS_Store
+.tags
+.tags_sorted_by_file
+.sass-cache/
+*.sh
+backup/
+config/database.yml
+db/*.sqlite3
+db/test.sqlite3-journal
+doc/
+html-report/
+log/*.log
+log/
+tmp/
+.*.swp
